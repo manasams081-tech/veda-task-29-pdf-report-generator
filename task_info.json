@@ -1,0 +1,12 @@
+{
+  "task": 29,
+  "title": "Build a PDF Report Generator",
+  "track": "Python Programming",
+  "tools": [
+    "Python",
+    "Pandas",
+    "ReportLab"
+  ],
+  "repository": "veda-task-29-pdf-report-generator",
+  "generated_on": "2026-09-29"
+}

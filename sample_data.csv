@@ -1,0 +1,21 @@
+date,region,product,customer,quantity,unit_price,revenue
+2026-09-01,North,Fitness Tracker,Aarav Retail,12,2499,29988
+2026-09-02,South,Yoga Mat,Bengaluru Sports,28,899,25172
+2026-09-03,West,Smart Scale,Pune Active,9,3199,28791
+2026-09-04,East,Resistance Band,Kolkata Fit,35,599,20965
+2026-09-05,South,Treadmill,Chennai Wellness,4,28999,115996
+2026-09-06,North,Dumbbell Set,Delhi Strength,16,5499,87984
+2026-09-07,West,Exercise Bike,Mumbai Motion,6,21999,131994
+2026-09-08,South,Foam Roller,Mysuru Move,22,1299,28578
+2026-09-09,East,Kettlebell,Bhubaneswar Core,14,2299,32186
+2026-09-10,North,Skipping Rope,Jaipur Active,31,449,13919
+2026-09-11,South,Fitness Tracker,Hyderabad Fit,18,2499,44982
+2026-09-12,West,Yoga Mat,Ahmedabad Flex,25,899,22475
+2026-09-13,East,Smart Scale,Patna Wellness,7,3199,22393
+2026-09-14,North,Resistance Band,Lucknow Fitness,29,599,17371
+2026-09-15,South,Dumbbell Set,Kochi Strength,11,5499,60489
+2026-09-16,West,Treadmill,Surat Wellness,3,28999,86997
+2026-09-17,East,Exercise Bike,Ranchi Motion,5,21999,109995
+2026-09-18,North,Foam Roller,Chandigarh Move,20,1299,25980
+2026-09-19,South,Kettlebell,Coimbatore Core,17,2299,39083
+2026-09-20,West,Skipping Rope,Nashik Active,27,449,12123
